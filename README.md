@@ -135,7 +135,7 @@ If you use this code, please cite it as follows:
 ```bibtex
 @misc{Khurdula2024LLMInferenceCPP,
   author = {Harsha Vardhan Khurdula},
-  title = {LLM-Inference-CPP: C++ Client for LLM Inference via Ollama},
+  title = {LLM-CPP-Inference: C++ Client for LLM Inference via Ollama},
   year = {2024},
   howpublished = {\url{https://github.com/Khurdhula-Harshavardhan/LLM-Inference-CPP}},
   }
